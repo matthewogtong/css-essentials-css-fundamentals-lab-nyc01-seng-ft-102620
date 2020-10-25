@@ -20,7 +20,7 @@ nav {
 
 nav a{
   background-color: grey;
-  
+  padding: 10px;
 }
 
 figcaption {
