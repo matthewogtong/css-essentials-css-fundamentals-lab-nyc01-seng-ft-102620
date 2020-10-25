@@ -18,6 +18,11 @@ nav {
   text-align: center;
 }
 
+nav a{
+  background-color: grey;
+  
+}
+
 figcaption {
   text-align: center;
   font-size: small;
